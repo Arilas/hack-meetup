@@ -1,0 +1,16 @@
+{
+    "name": "granted/exteriment",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Grand",
+            "email": "Kiral.Group@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"Granted\\Experiment\\": "src/"
+    	}
+    },
+    "require": {}
+}
