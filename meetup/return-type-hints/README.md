@@ -1,0 +1,1 @@
+This folder contains sample with Return Type Hints that works good in HACK, but fails in PHP

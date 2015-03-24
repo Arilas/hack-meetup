@@ -1,5 +1,8 @@
 <?hh //strict
-
+/**
+ * This code will be worked in HACK without Fatal Error
+ * 
+ */
 namespace HH;
 
 interface A {}

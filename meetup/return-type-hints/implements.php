@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * This code will throw an Fatal Error:
+ * Fatal error: Declaration of ABManager::bind() must be compatible with AManager::bind(): A in *** line 22
+ */
 namespace PHP;
 
 interface A {}
